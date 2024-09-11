@@ -8,9 +8,9 @@ MAILS.csv-ID;Used-MGT-DetDetector;DetectionResult;UsedLLM;Phishing likelyhood - 
 1;FastDetectGPT;21% Machine;GPT-4o;87%;95%;98%;93,33%;95%
 1;FastDetectGPT;21% Machine;Bing-Copilot;35%;25%;25%;28,33%;25%
 1;FastDetectGPT;21% Machine;Gemini 1.5;99,99%;99,99%;99,99%;99,99%;99,99%
-1;Binoculars;most likely homan-Generated;GPT-4o;87%;95%;87%;89,67;87%
-1;Binoculars;most likely homan-Generated;Bing-Copilot;99,84%;99,84%;99,84%;99,84%;99,84%
-1;Binoculars;most likely homan-Generated;Gemini 1.5;99,95%;99,99%;99,99%;99,98%;99,99%
+1;Binoculars;most likely human-Generated;GPT-4o;87%;95%;87%;89,67;87%
+1;Binoculars;most likely human-Generated;Bing-Copilot;99,84%;99,84%;99,84%;99,84%;99,84%
+1;Binoculars;most likely human-Generated;Gemini 1.5;99,95%;99,99%;99,99%;99,98%;99,99%
 
 2;None;;GPT-4o;;;;;
 2;None;;Bing-Copilot;;;;;
@@ -21,9 +21,9 @@ MAILS.csv-ID;Used-MGT-DetDetector;DetectionResult;UsedLLM;Phishing likelyhood - 
 2;FastDetectGPT;0% Machine;GPT-4o;;;;;
 2;FastDetectGPT;0% Machine;Bing-Copilot;;;;;
 2;FastDetectGPT;0% Machine;Gemini 1.5;;;;;
-2;Binoculars;most likely homan-Generated;GPT-4o;;;;;
-2;Binoculars;most likely homan-Generated;Bing-Copilot;;;;;
-2;Binoculars;most likely homan-Generated;Gemini 1.5;;;;;
+2;Binoculars;most likely human-Generated;GPT-4o;;;;;
+2;Binoculars;most likely human-Generated;Bing-Copilot;;;;;
+2;Binoculars;most likely human-Generated;Gemini 1.5;;;;;
 
 3;None;;GPT-4o;;;;;
 3;None;;Bing-Copilot;;;;;
@@ -34,9 +34,9 @@ MAILS.csv-ID;Used-MGT-DetDetector;DetectionResult;UsedLLM;Phishing likelyhood - 
 3;FastDetectGPT;0% Machine;GPT-4o;;;;;
 3;FastDetectGPT;0% Machine;Bing-Copilot;;;;;
 3;FastDetectGPT;0% Machine;Gemini 1.5;;;;;
-3;Binoculars;most likely homan-Generated;GPT-4o;;;;;
-3;Binoculars;most likely homan-Generated;Bing-Copilot;;;;;
-3;Binoculars;most likely homan-Generated;Gemini 1.5;;;;;
+3;Binoculars;most likely human-Generated;GPT-4o;;;;;
+3;Binoculars;most likely human-Generated;Bing-Copilot;;;;;
+3;Binoculars;most likely human-Generated;Gemini 1.5;;;;;
 
 4;None;;GPT-4o;;;;;
 4;None;;Bing-Copilot;;;;;
@@ -47,9 +47,9 @@ MAILS.csv-ID;Used-MGT-DetDetector;DetectionResult;UsedLLM;Phishing likelyhood - 
 4;FastDetectGPT;0% Machine;GPT-4o;;;;;
 4;FastDetectGPT;0% Machine;Bing-Copilot;;;;;
 4;FastDetectGPT;0% Machine;Gemini 1.5;;;;;
-4;Binoculars;most likely homan-Generated;GPT-4o;;;;;
-4;Binoculars;most likely homan-Generated;Bing-Copilot;;;;;
-4;Binoculars;most likely homan-Generated;Gemini 1.5;;;;;
+4;Binoculars;most likely human-Generated;GPT-4o;;;;;
+4;Binoculars;most likely human-Generated;Bing-Copilot;;;;;
+4;Binoculars;most likely human-Generated;Gemini 1.5;;;;;
 
 5;None;;GPT-4o;;;;;
 5;None;;Bing-Copilot;;;;;
@@ -60,9 +60,9 @@ MAILS.csv-ID;Used-MGT-DetDetector;DetectionResult;UsedLLM;Phishing likelyhood - 
 5;FastDetectGPT;0% Machine;GPT-4o;;;;;
 5;FastDetectGPT;0% Machine;Bing-Copilot;;;;;
 5;FastDetectGPT;0% Machine;Gemini 1.5;;;;;
-5;Binoculars;most likely homan-Generated;GPT-4o;;;;;
-5;Binoculars;most likely homan-Generated;Bing-Copilot;;;;;
-5;Binoculars;most likely homan-Generated;Gemini 1.5;;;;;
+5;Binoculars;most likely human-Generated;GPT-4o;;;;;
+5;Binoculars;most likely human-Generated;Bing-Copilot;;;;;
+5;Binoculars;most likely human-Generated;Gemini 1.5;;;;;
 
 6;None;;GPT-4o;;;;;
 6;None;;Bing-Copilot;;;;;
