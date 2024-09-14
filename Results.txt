@@ -28,3 +28,8 @@ result-27: Phishing-False,Durchschnitt,Erkennung-Gemini,Labeld-FastDetectGPT, 0,
 result-28: Phishing-False,Durchschnitt,Erkennung-Gemini,Labeld-Binoculars, 0,4570,
 result-29: Phishing-False,Durchschnitt,Erkennung-Gemini,Labeld-True, 0,4413,
 result-30: Phishing-False,Durchschnitt,Erkennung-Gemini,Labeld-False, 0,7350,
+
+result-31: phishing-True, HumanGeneratedEmail,Average,GPT+Gemini+Claude, Labeled-False 0,8163,
+result-32: phishing-True, HumanGeneratedEmail,Average,GPT+Gemini+Claude, Labeled-True 0,7442,
+result-33: phishing-True, MachineGeneratedEmail,Average,GPT+Gemini+Claude, Labeled-False 0,8670,
+result-34: phishing-True, MachineGeneratedEmail,Average,GPT+Gemini+Claude, Labeled-True 0,8787,
