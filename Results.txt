@@ -33,3 +33,8 @@ result-31: phishing-True, HumanGeneratedEmail,Average,GPT+Gemini+Claude, Labeled
 result-32: phishing-True, HumanGeneratedEmail,Average,GPT+Gemini+Claude, Labeled-True 0,7442,
 result-33: phishing-True, MachineGeneratedEmail,Average,GPT+Gemini+Claude, Labeled-False 0,8670,
 result-34: phishing-True, MachineGeneratedEmail,Average,GPT+Gemini+Claude, Labeled-True 0,8787,
+
+result-35: phishing-False, HumanGeneratedEmail,Average,GPT+Gemini+Claude, Labeled-False 0,5753,
+result-36: phishing-False, HumanGeneratedEmail,Average,GPT+Gemini+Claude, Labeled-True 0,3373,
+result-37: phishing-True, MachineGeneratedEmail,Average,GPT+Gemini+Claude, Labeled-False 0,8543,
+result-38: phishing-True, MachineGeneratedEmail,Average,GPT+Gemini+Claude, Labeled-True 0,8451,
