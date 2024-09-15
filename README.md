@@ -1,6 +1,6 @@
 # Phishing detection as a 2-step-approach with a combination of a Machine Learning Model and a LLM-Model
 
-## Repositorie for a Scientific Paper
+## Repository for a Scientific Paper
 here you can find all the data used for our testing, the prompts, our email-Set as well as our Results
 
 ---
